@@ -1,2 +1,2 @@
 # selenium_practice
-This is a selenium a practice project.
+This is a selenium practice project.
