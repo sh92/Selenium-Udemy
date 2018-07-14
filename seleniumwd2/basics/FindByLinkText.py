@@ -9,7 +9,7 @@ class FindByLinkText():
         elementByLinkText = driver.find_element_by_link_text("Login")
 
         if elementByLinkText is not None:
-            print("We foudn an elem‰ent by Link Text")
+            print("We foudn an element by Link Text")
 
         elementByPartialLinkText = driver.find_element_by_partial_link_text("Pract")
 
