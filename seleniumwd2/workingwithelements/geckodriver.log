@@ -44,3 +44,36 @@ See /usr/include/servers/bootstrap_defs.h for the error codes.
 1531617366879	Marionette	WARN	TLS certificate errors will be ignored for this session
 2018-07-15 10:16:07.361 plugin-container[7385:1917748] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9237, name = 'com.apple.tsm.portname'
 See /usr/include/servers/bootstrap_defs.h for the error codes.
+1531660696597	geckodriver	INFO	geckodriver 0.21.0
+1531660696608	geckodriver	INFO	Listening on 127.0.0.1:55327
+1531660697612	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h2/49brz8mn4qj04ljgy4r7gbc80000gn/T/rust_mozprofile.CPOCtTReV3dM"
+2018-07-15 22:18:19.840 plugin-container[8181:2041185] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-15 22:18:20.346 plugin-container[8182:2041213] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1531660700792	Marionette	INFO	Listening on port 55342
+1531660700891	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-15 22:18:20.948 plugin-container[8183:2041298] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x932b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1531660724245	geckodriver	INFO	geckodriver 0.21.0
+1531660724253	geckodriver	INFO	Listening on 127.0.0.1:55513
+1531660725264	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h2/49brz8mn4qj04ljgy4r7gbc80000gn/T/rust_mozprofile.rxiJiG5xx8ko"
+2018-07-15 22:18:47.172 plugin-container[8192:2041895] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x992f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-15 22:18:47.532 plugin-container[8193:2041922] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9637, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1531660727801	Marionette	INFO	Listening on port 55528
+1531660727891	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-15 22:18:48.452 plugin-container[8194:2042036] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1531660919345	geckodriver	INFO	geckodriver 0.21.0
+1531660919357	geckodriver	INFO	Listening on 127.0.0.1:56398
+1531660920355	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h2/49brz8mn4qj04ljgy4r7gbc80000gn/T/rust_mozprofile.S6iOolP0ZNhG"
+2018-07-15 22:22:02.514 plugin-container[8205:2044864] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-15 22:22:02.887 plugin-container[8206:2044892] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1531660923109	Marionette	INFO	Listening on port 56413
+1531660923206	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-15 22:22:03.707 plugin-container[8207:2045031] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
