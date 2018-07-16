@@ -10,18 +10,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/seleniumwd2$BrowserInteractions.coverage" NAME="BrowserInteractions Coverage Results" MODIFIED="1531616481174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/workingwithelements" />
     <SUITE FILE_PATH="coverage/seleniumwd2$FindByLinkText.coverage" NAME="FindByLinkText Coverage Results" MODIFIED="1531534662361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
     <SUITE FILE_PATH="coverage/seleniumwd2$RunSafariTest.coverage" NAME="RunSafariTest Coverage Results" MODIFIED="1531531496081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
+    <SUITE FILE_PATH="coverage/seleniumwd2$FindByClassTag.coverage" NAME="FindByClassTag Coverage Results" MODIFIED="1531558227701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
+    <SUITE FILE_PATH="coverage/seleniumwd2$RunFFTests.coverage" NAME="RunFFTests Coverage Results" MODIFIED="1531493455195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
+    <SUITE FILE_PATH="coverage/seleniumwd2$BrowserInteractions.coverage" NAME="BrowserInteractions Coverage Results" MODIFIED="1531616481174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/workingwithelements" />
     <SUITE FILE_PATH="coverage/seleniumwd2$ListOfElements.coverage" NAME="ListOfElements Coverage Results" MODIFIED="1531567429313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
     <SUITE FILE_PATH="coverage/seleniumwd2$RadioButtonAndCheckboxes.coverage" NAME="RadioButtonAndCheckboxes Coverage Results" MODIFIED="1531660919028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/workingwithelements" />
     <SUITE FILE_PATH="coverage/seleniumwd2$FindByXpathCSS.coverage" NAME="FindByXpathCSS Coverage Results" MODIFIED="1531533005691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
     <SUITE FILE_PATH="coverage/seleniumwd2$FindByIdName.coverage" NAME="FindByIdName Coverage Results" MODIFIED="1531531790602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
-    <SUITE FILE_PATH="coverage/seleniumwd2$FindByClassTag.coverage" NAME="FindByClassTag Coverage Results" MODIFIED="1531558227701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
     <SUITE FILE_PATH="coverage/seleniumwd2$RunChromeTest.coverage" NAME="RunChromeTest Coverage Results" MODIFIED="1531493468649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
     <SUITE FILE_PATH="coverage/seleniumwd2$ClickAndSendKeys.coverage" NAME="ClickAndSendKeys Coverage Results" MODIFIED="1531617362438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/workingwithelements" />
     <SUITE FILE_PATH="coverage/seleniumwd2$ByDemo.coverage" NAME="ByDemo Coverage Results" MODIFIED="1531565136956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
-    <SUITE FILE_PATH="coverage/seleniumwd2$RunFFTests.coverage" NAME="RunFFTests Coverage Results" MODIFIED="1531493455195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
+    <SUITE FILE_PATH="coverage/seleniumwd2$WorkingWithElementList.coverage" NAME="WorkingWithElementList Coverage Results" MODIFIED="1531708145342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/workingwithelements" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -79,11 +80,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RadioButtonAndCheckboxes.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RadioButtonAndCheckboxes.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/workingwithelements/RadioButtonAndCheckboxes.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="368">
               <caret line="25" column="46" lean-forward="false" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WorkingWithElementList.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/workingwithelements/WorkingWithElementList.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -147,6 +160,7 @@
         <option value="$PROJECT_DIR$/workingwithelements/BrowserInteractions.py" />
         <option value="$PROJECT_DIR$/workingwithelements/ClickAndSendKeys.py" />
         <option value="$PROJECT_DIR$/workingwithelements/RadioButtonAndCheckboxes.py" />
+        <option value="$PROJECT_DIR$/workingwithelements/WorkingWithElementList.py" />
       </list>
     </option>
   </component>
@@ -228,7 +242,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.RadioButtonAndCheckboxes">
+  <component name="RunManager" selected="Python.WorkingWithElementList">
     <configuration name="BrowserInteractions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -243,24 +257,6 @@
       <module name="seleniumwd2" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/workingwithelements/BrowserInteractions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="ByDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="seleniumwd2" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/ByDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -319,20 +315,38 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="WorkingWithElementList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/workingwithelements" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="seleniumwd2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/workingwithelements/WorkingWithElementList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ByDemo" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ListOfElements" />
-      <item index="2" class="java.lang.String" itemvalue="Python.BrowserInteractions" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ClickAndSendKeys" />
-      <item index="4" class="java.lang.String" itemvalue="Python.RadioButtonAndCheckboxes" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ListOfElements" />
+      <item index="1" class="java.lang.String" itemvalue="Python.BrowserInteractions" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ClickAndSendKeys" />
+      <item index="3" class="java.lang.String" itemvalue="Python.RadioButtonAndCheckboxes" />
+      <item index="4" class="java.lang.String" itemvalue="Python.WorkingWithElementList" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.RadioButtonAndCheckboxes" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ClickAndSendKeys" />
-        <item index="2" class="java.lang.String" itemvalue="Python.BrowserInteractions" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ListOfElements" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ByDemo" />
+        <item index="0" class="java.lang.String" itemvalue="Python.WorkingWithElementList" />
+        <item index="1" class="java.lang.String" itemvalue="Python.RadioButtonAndCheckboxes" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ClickAndSendKeys" />
+        <item index="3" class="java.lang.String" itemvalue="Python.BrowserInteractions" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ListOfElements" />
       </list>
     </recent_temporary>
   </component>
@@ -538,6 +552,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="25" column="46" lean-forward="false" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workingwithelements/WorkingWithElementList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
