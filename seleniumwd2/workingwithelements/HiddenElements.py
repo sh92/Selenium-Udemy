@@ -34,4 +34,3 @@ class HiddenElements():
 
 ff = HiddenElements()
 ff.testletsKodeIt()
-ff.testExpeida()

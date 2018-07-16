@@ -12,6 +12,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/seleniumwd2$FindByLinkText.coverage" NAME="FindByLinkText Coverage Results" MODIFIED="1531534662361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
     <SUITE FILE_PATH="coverage/seleniumwd2$RunSafariTest.coverage" NAME="RunSafariTest Coverage Results" MODIFIED="1531531496081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
+    <SUITE FILE_PATH="coverage/seleniumwd2$getText.coverage" NAME="getText Coverage Results" MODIFIED="1531725030210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utilities" />
     <SUITE FILE_PATH="coverage/seleniumwd2$FindByClassTag.coverage" NAME="FindByClassTag Coverage Results" MODIFIED="1531558227701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
     <SUITE FILE_PATH="coverage/seleniumwd2$HiddenElements.coverage" NAME="HiddenElements Coverage Results" MODIFIED="1531715559577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/workingwithelements" />
     <SUITE FILE_PATH="coverage/seleniumwd2$RunFFTests.coverage" NAME="RunFFTests Coverage Results" MODIFIED="1531493455195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
@@ -28,16 +29,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ByDemo.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basics/ByDemo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="RunChromeTest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basics/RunChromeTest.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -73,11 +64,9 @@
       <file leaf-file-name="ClickAndSendKeys.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/workingwithelements/ClickAndSendKeys.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="14" column="70" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="70" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="15">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="43" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -118,11 +107,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HiddenElements.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HiddenElements.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/workingwithelements/HiddenElements.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="525">
+              <caret line="35" column="17" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getText.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/utilities/getText.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -179,6 +180,7 @@
         <option value="$PROJECT_DIR$/workingwithelements/WorkingWithElementList.py" />
         <option value="$PROJECT_DIR$/workingwithelements/DropdownSelect.py" />
         <option value="$PROJECT_DIR$/workingwithelements/HiddenElements.py" />
+        <option value="$PROJECT_DIR$/utilities/getText.py" />
       </list>
     </option>
   </component>
@@ -221,7 +223,7 @@
             <path>
               <item name="seleniumwd2" type="b2602c69:ProjectViewProjectNode" />
               <item name="seleniumwd2" type="462c0819:PsiDirectoryNode" />
-              <item name="basics" type="462c0819:PsiDirectoryNode" />
+              <item name="utilities" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="seleniumwd2" type="b2602c69:ProjectViewProjectNode" />
@@ -260,25 +262,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.HiddenElements">
-    <configuration name="ClickAndSendKeys" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/workingwithelements" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="seleniumwd2" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/workingwithelements/ClickAndSendKeys.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.getText">
     <configuration name="DropdownSelect" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -351,20 +335,38 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="getText" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utilities" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="seleniumwd2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utilities/getText.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ClickAndSendKeys" />
-      <item index="1" class="java.lang.String" itemvalue="Python.RadioButtonAndCheckboxes" />
-      <item index="2" class="java.lang.String" itemvalue="Python.WorkingWithElementList" />
-      <item index="3" class="java.lang.String" itemvalue="Python.DropdownSelect" />
-      <item index="4" class="java.lang.String" itemvalue="Python.HiddenElements" />
+      <item index="0" class="java.lang.String" itemvalue="Python.RadioButtonAndCheckboxes" />
+      <item index="1" class="java.lang.String" itemvalue="Python.WorkingWithElementList" />
+      <item index="2" class="java.lang.String" itemvalue="Python.DropdownSelect" />
+      <item index="3" class="java.lang.String" itemvalue="Python.HiddenElements" />
+      <item index="4" class="java.lang.String" itemvalue="Python.getText" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.HiddenElements" />
-        <item index="1" class="java.lang.String" itemvalue="Python.DropdownSelect" />
-        <item index="2" class="java.lang.String" itemvalue="Python.WorkingWithElementList" />
-        <item index="3" class="java.lang.String" itemvalue="Python.RadioButtonAndCheckboxes" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ClickAndSendKeys" />
+        <item index="0" class="java.lang.String" itemvalue="Python.getText" />
+        <item index="1" class="java.lang.String" itemvalue="Python.HiddenElements" />
+        <item index="2" class="java.lang.String" itemvalue="Python.DropdownSelect" />
+        <item index="3" class="java.lang.String" itemvalue="Python.WorkingWithElementList" />
+        <item index="4" class="java.lang.String" itemvalue="Python.RadioButtonAndCheckboxes" />
       </list>
     </recent_temporary>
   </component>
@@ -556,16 +558,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/workingwithelements/WorkingWithElementList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/workingwithelements/RadioButtonAndCheckboxes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
@@ -586,10 +578,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/workingwithelements/ClickAndSendKeys.py">
+    <entry file="file://$PROJECT_DIR$/workingwithelements/WorkingWithElementList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="14" column="70" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="70" />
+        <state relative-caret-position="283">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="9" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
@@ -598,8 +590,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/workingwithelements/HiddenElements.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state relative-caret-position="525">
+          <caret line="35" column="17" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workingwithelements/ClickAndSendKeys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/getText.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
