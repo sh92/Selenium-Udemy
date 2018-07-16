@@ -31,3 +31,27 @@ See /usr/include/servers/bootstrap_defs.h for the error codes.
 See /usr/include/servers/bootstrap_defs.h for the error codes.
 1531725034715	Marionette	WARN	TLS certificate errors will be ignored for this session
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531728322916	geckodriver	INFO	geckodriver 0.21.0
+1531728322930	geckodriver	INFO	Listening on 127.0.0.1:56758
+1531728323932	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h2/49brz8mn4qj04ljgy4r7gbc80000gn/T/rust_mozprofile.omuDUhDR3ZZQ"
+2018-07-16 17:05:27.391 plugin-container[22292:3761434] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9637, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-16 17:05:27.799 plugin-container[22294:3761461] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1531728328125	Marionette	INFO	Listening on port 56769
+1531728328213	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-16 17:05:28.514 plugin-container[22295:3761764] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531728350614	geckodriver	INFO	geckodriver 0.21.0
+1531728350635	geckodriver	INFO	Listening on 127.0.0.1:56850
+1531728351647	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h2/49brz8mn4qj04ljgy4r7gbc80000gn/T/rust_mozprofile.V4sZDagj7bZu"
+2018-07-16 17:05:55.680 plugin-container[22319:3764142] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9533, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-16 17:05:55.870 plugin-container[22320:3764185] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1531728356176	Marionette	INFO	Listening on port 56861
+1531728356234	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-16 17:05:56.420 plugin-container[22322:3764433] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x922f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
